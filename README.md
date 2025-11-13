@@ -1,6 +1,6 @@
 # Goathouse Bottle Spinner Prompts
 
-This repository contains custom prompts for the bottle spinner game in the "The Goat House" VRChat world, created by lola18k. The prompts are stored in `prompts.txt` and can be loaded into the game via a hosted URL (e.g., using Dropbox, GitHub Gist, or Pastebin as per the asset documentation).
+This repository contains custom prompts for the bottle spinner game in the "The Goat House" VRChat world, created by lola18k. The prompts are stored in `prompts.txt` and can be loaded into the game via a hosted URL.
 
 ## Description
 
