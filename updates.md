@@ -6,3 +6,7 @@
 ## 2025-11-13
 - **New prompt added:** "Drink 5 shots if your name is ArcherHD."
 - **Requested by:** .miao
+
+## 2025-11-13
+- **New prompt added:** "Do 25 push ups or drink 3 shots"
+- **Requested by:** zeroheros99
