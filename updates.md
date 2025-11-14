@@ -30,3 +30,7 @@
 ## 2025-11-13
 - **New prompt added:** "T: I THINK ITS FIXED"
 - **Requested by:** .miao
+
+## 2025-11-14
+- **New prompt added:** "D: Stay in the instance 1 more hour."
+- **Requested by:** .miao
